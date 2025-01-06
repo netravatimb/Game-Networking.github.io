@@ -1,0 +1,4 @@
+title: Game Networking 
+description: Game networking is a concise problem statement that focuses on the needs of the user (e.g., players or developers) and the challenges they face regarding networking.Optimizing game networking requires  efficient data transmission , real time snych ,matchmaking , packet recovery , and load balancing . 
+
+theme: jekyll-theme-cayman
