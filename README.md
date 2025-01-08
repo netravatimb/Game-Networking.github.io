@@ -55,3 +55,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
 ##  Game networking
+-Minimize latency
+-Matchmaking
+-Packet loss recovery
+-Efficient communication
