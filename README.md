@@ -55,9 +55,17 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
 
-##  Game networking
+##  The 4 Modules of Game networking
+
 
 ### Minimize latency
 ### Matchmaking
 ### Packet loss recovery
 ### Efficient communication
+
+### Minimise latency
+
+
+![Game Networking]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-01-08 222622.png".jpg)
+*This is a screenshot of my game networking project.*
+
