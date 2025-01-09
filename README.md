@@ -63,9 +63,22 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ### Packet loss recovery
 ### Efficient communication
 
-### Minimise latency
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Networking Image</title>
+</head>
+<body>
+    <h1>Launching the Games Network Center</h1>
+    <img src="https://youc.ir/wp-content/uploads/2018/04/launching-the-games-network-center-780x405.jpg" 
+         alt="Launching the Games Network Center" 
+         title="Launching the Games Network Center" 
+         width="780" height="405" />
+</body>
+</html>
 
 
-![Game Networking]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-01-08 222622.png".jpg)
-*This is a screenshot of my game networking project.*
 
