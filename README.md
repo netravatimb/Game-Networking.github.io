@@ -80,5 +80,46 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 </body>
 </html>
 
+#### DATA STRUCTURES USED ARE:
+## Queues
+## Hash tables
+## Graphs 
+## Trees
+
+### Algorithms in Minimize Latency :
+## Dijkstra's Shortest Path Algorithm
+## Bellman-Ford Algorithm
+## Floyd-Warshall Algorithm
+## Queues (for message transmission)
+## Arrays (for storing distances and paths)
+## Linked Lists (for dynamic player connections)
+
+
+
+### Algorithms in Matchmaking :
+## selection sort
+## BFS(breadth first search)
+## DFS(depth first search)
+## Hash mapping
+## Arrays (for sorting player attributes)
+## Adjacency list
+
+
+### Algorithms in Packet loss Recovery :
+## Brute Force String Search
+## Floyd-Warshall Algorithm
+## Queues for packet management
+## Linked Lists (for retransmission tracking)
+## Arrays (for packet buffering)
+
+
+### Algorithms in Efficient Communication :
+## Heap Sort
+## Rabin-Karp Algorithm
+## Boyer-Moore Algorithm
+## KMP Algorithm
+## Queues (for message storage and priority)
+## Arrays (for storing chat logs/messages)
+## Linked Lists (for dynamic chat history management)
 
 
